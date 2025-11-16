@@ -35,11 +35,11 @@ Vida: -30
 Experiência: (sem alteração)
 
 ## 🏆 Condições de Vitória/Derrota
-Vitória: Ao final das 6 perguntas, sua Vida deve ser > 0 e sua Experiência deve ser > 90.
+Vitória: Ao final das 6 perguntas, sua Vida deve ser > 0 e sua Experiência deve ser >= 120.
 
 Derrota (Vida): Sua Vida chega a 0 (ou menos) a qualquer momento.
 
-Derrota (Experiência): Você sobrevive, mas sua Experiência é < 90.
+Derrota (Experiência): Você sobrevive, mas sua Experiência é < 120.
 
 ## 📁 Estrutura do Código
 O código é estruturado de forma funcional, com a lógica principal separada em funções específicas.
